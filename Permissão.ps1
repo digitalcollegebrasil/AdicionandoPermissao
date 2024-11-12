@@ -1,0 +1,1 @@
+Add-LocalGroupMember -Group "Administradores" -Member "digitalcollege\Domain Users"
